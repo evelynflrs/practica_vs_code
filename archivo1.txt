@@ -1,4 +1,5 @@
 
 modificacion despues de stage
 nueva modificacion y eliminacion de primer linea
+conflict
 ss
